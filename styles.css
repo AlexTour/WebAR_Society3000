@@ -38,6 +38,8 @@ model-viewer {
   height: 90%;
   background-color: unset;
   --poster-color: #ffffff00
+  position: absolute;
+  top: 0;
 }
 
 
