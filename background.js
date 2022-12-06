@@ -47,4 +47,4 @@ var c = document.getElementById("c");
             }
         }
 
-        setInterval(draw, 35);
+        setInterval(draw, 70);
