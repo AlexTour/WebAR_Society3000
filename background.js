@@ -24,7 +24,7 @@ var c = document.getElementById("c");
         {
             //Black BG for the canvas
             //translucent BG to show trail
-            ctx.fillStyle = "rgba(0, 0, 0, 0.08)";
+            ctx.fillStyle = "rgba(61,61,63, 0.08)";
             ctx.fillRect(0, 0, c.width, c.height);
 
             ctx.fillStyle = "#00FF00";//green text
